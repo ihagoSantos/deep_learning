@@ -1,1 +1,1 @@
-# Deeplearning class
+Deep-learning class
